@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+p{
+background-color:black;
+	color:white;
+}
+.favorite-color{
+	color:white;
+}
